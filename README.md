@@ -7,7 +7,7 @@ I'm a blockchain enthusiast and developer focused on validator operations and bl
 ## 🌟 Featured Projects
 
 ### [89 Validator Handbook](https://github.com/0xQuan93/89-Validator-Handbook)
-A comprehensive guide for blockchain validators, containing:
+A comprehensive guide for Project 89 validators, containing:
 - Best practices for node operation
 - Security guidelines
 - Technical documentation
@@ -17,9 +17,9 @@ A comprehensive guide for blockchain validators, containing:
 A collection of tools and utilities for blockchain validators and operators.
 
 ## 🛠️ Technologies & Tools
-- Blockchain Networks
-- Node Operation
-- Validator Infrastructure
+- Reality Hacking
+- Narrative Hijacking
+- Conciousness Tools
 - Technical Documentation
 - Community Building
 
