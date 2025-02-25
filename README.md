@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @0xQuan93
-- 👀 I’m interested in hacking reality
-- 🌱 I’m currently learning how to code solid state Ai scripts for portable devices with unique personas
-- 💞️ I’m looking to collaborate on ^^^
-- 📫 How to reach me dc: 0xQuan
-- 😄 Pronouns: Am / Is
-- ⚡ Fun fact: Yes.
+![THE FRACTAL LOBBY](https://github.com/user-attachments/assets/d80803ad-ab96-470a-963b-c0ca54f0df32)
 
-<!---
-0xQuan93/0xQuan93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## About Me
+I'm a blockchain enthusiast and developer focused on validator operations and blockchain infrastructure. My work centers around making validation more accessible and providing resources to the validator community.
+
+## 🌟 Featured Projects
+
+### [89 Validator Handbook](https://github.com/0xQuan93/89-Validator-Handbook)
+A comprehensive guide for blockchain validators, containing:
+- Best practices for node operation
+- Security guidelines
+- Technical documentation
+- Community resources
+
+### [Project89 Arsenal](https://github.com/0xQuan93/Project89-Arsenal)
+A collection of tools and utilities for blockchain validators and operators.
+
+## 🛠️ Technologies & Tools
+- Blockchain Networks
+- Node Operation
+- Validator Infrastructure
+- Technical Documentation
+- Community Building
+
+## 📫 Connect With Me
+- GitHub: [@0xQuan93](https://github.com/0xQuan93)
+
+## 🤝 Contributing
+I'm always open to collaboration and contributions to my projects. Feel free to fork, submit PRs, or open issues.
+
+---
+*"Building a more decentralized future, one validator at a time."*
+![Simulation 89](https://github.com/user-attachments/assets/c84bdb0a-bc21-4e73-ade3-88b76423f176)
