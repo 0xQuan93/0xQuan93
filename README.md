@@ -30,5 +30,5 @@ A collection of tools and utilities for blockchain validators and operators.
 I'm always open to collaboration and contributions to my projects. Feel free to fork, submit PRs, or open issues.
 
 ---
-*"Building a more decentralized future, one validator at a time."*
+*"Building a more decentralized future, one agent at a time."*
 ![Simulation 89](https://github.com/user-attachments/assets/c84bdb0a-bc21-4e73-ade3-88b76423f176)
