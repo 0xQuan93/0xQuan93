@@ -1,4 +1,4 @@
-![THE FRACTAL LOBBY](https://github.com/user-attachments/assets/d80803ad-ab96-470a-963b-c0ca54f0df32)
+
 
 
 ## About Me
